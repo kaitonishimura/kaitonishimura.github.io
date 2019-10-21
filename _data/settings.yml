@@ -10,17 +10,17 @@ menu:
 #- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 #- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-#- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Product', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'twitter', link: 'https://twitter.com/kaito_4__four'}
 #- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:kaitosocceradidas97@gmail.com'}
-#- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'linkedin', link: 'linkedin.com/in/海都-西村-bbb391195'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
